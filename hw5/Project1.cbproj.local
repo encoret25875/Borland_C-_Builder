@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/10/14 22:46:28.000.475,=C:\Users\ray\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/10/14 23:56:57.000.772,C:\Users\ray\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ray\Desktop\影像處理\Unit1.dfm</Transaction>
+    <Transaction>2014/10/14 23:56:57.000.772,C:\Users\ray\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ray\Desktop\影像處理\Unit1.h</Transaction>
+    <Transaction>2014/10/14 23:56:57.000.772,C:\Users\ray\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ray\Desktop\影像處理\Unit1.cpp</Transaction>
+    <Transaction>2014/10/14 23:57:00.000.009,C:\Users\ray\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\ray\Desktop\影像處理\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
