@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/12/17 10:57:21.000.394,=C:\Users\student\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/12/17 12:13:12.000.677,C:\Users\student\Desktop\新增資料夾\Unit1.dfm=C:\Users\student\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/12/17 12:13:12.000.677,C:\Users\student\Desktop\新增資料夾\Unit1.h=C:\Users\student\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2014/12/17 12:13:12.000.677,C:\Users\student\Desktop\新增資料夾\Unit1.cpp=C:\Users\student\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/12/17 12:13:14.000.000,C:\Users\student\Desktop\新增資料夾\Project1.cbproj=C:\Users\student\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
